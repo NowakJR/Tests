@@ -1,1 +1,1 @@
-learning basic rspec tests in ruby
+learning basic unit tests in ruby
